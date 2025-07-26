@@ -1,0 +1,7 @@
+# ninja log v6
+4	142	7752373150628217	CMakeFiles/RT.dir/main.cpp.obj.ddi	f3a14541c0a6dcae
+143	170	7752373152238464	CMakeFiles/RT.dir/CXX.dd	a3dcb0aa33edc723
+143	170	7752373152238464	C:/Users/Usuario/Desktop/PROJETOS/RT/build/CMakeFiles/RT.dir/CXXModules.json	a3dcb0aa33edc723
+143	170	7752373152238464	CMakeFiles/RT.dir/main.cpp.obj.modmap	a3dcb0aa33edc723
+171	527	7752373152298434	CMakeFiles/RT.dir/main.cpp.obj	e76f219a39520504
+531	625	7752373155888565	RT.exe	bc719489e9da3726
