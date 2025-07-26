@@ -291,5 +291,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ and modern C++**
-
-*This project demonstrates advanced software engineering principles, mathematical foundations, and computer graphics expertise - perfect for showcasing technical skills to potential employers.* 
