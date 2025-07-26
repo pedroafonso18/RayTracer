@@ -1,3 +1,0 @@
-C:/Users/Usuario/Desktop/PROJETOS/RT/build/CMakeFiles/RT.dir
-C:/Users/Usuario/Desktop/PROJETOS/RT/build/CMakeFiles/edit_cache.dir
-C:/Users/Usuario/Desktop/PROJETOS/RT/build/CMakeFiles/rebuild_cache.dir
