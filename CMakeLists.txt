@@ -8,4 +8,5 @@ add_executable(RT main.cpp
         Vec3.h
         Color.cpp
         Color.h
-        Color.cpp)
+        Color.cpp
+        Ray.h)
