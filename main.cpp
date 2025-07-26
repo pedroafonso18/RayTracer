@@ -1,6 +1,7 @@
 #include "Color.h"
 #include "Vec3.h"
 
+#include <fstream>
 #include <iostream>
 
 using namespace Color;
@@ -10,6 +11,7 @@ int main() {
     int image_width = 256;
     int image_height = 256;
 
+    std::ofstream out ("image.ppm");
     std::cout << "P3\n" << image_width << ' ' << image_height << "\n255\n";
 
     for (int j = 0; j < image_height; j++) {
